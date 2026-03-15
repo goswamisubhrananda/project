@@ -1,18 +1,15 @@
 # Airline Price Prediction Analysis Dashboard
 
 ## Project Overview
-This project analyzes airline ticket prices using data visualization tools. The main goal is to understand how different factors such as airline, booking time, departure time, source and destination, and travel class affect ticket prices.
+This project analyzes airline ticket prices using data visualization tools. 
 
-Interactive dashboards were created using **Power BI** and **Tableau** to visualize these patterns and provide insights useful for marketing managers and decision-makers in the aviation industry.
+Interactive dashboards were created using **Power BI** and **Tableau** to visualize .
 
 ---
 
 ## Objectives
 - Analyze airline ticket prices using real dataset.
 - Understand how ticket prices vary across different airlines.
-- Examine how booking time affects ticket pricing.
-- Study the relationship between departure/arrival time and ticket price.
-- Compare ticket prices between Economy and Business class.
 - Build interactive dashboards using Power BI and Tableau.
 
 ---
